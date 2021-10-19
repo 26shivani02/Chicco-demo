@@ -9,12 +9,11 @@
     <div class="home-main homepage">
         <isslot id="home-main-m" description="Main home page slot." context="global" />
     </div>
-hjsagdhsagd asdghsagd j sgdhasgd ags dahgs dhgsa  djasbdh
-<p>sjgdgas</p>
-<strong>HELLO</strong>
-<h1>nanostuffs</h1>
 
-<h2>Hello this is Shivani</h2>
+
+
+<strong>HELLO Nanostuffs</strong>
+<h2> This is Shivani</h2>
     <div class="container home-categories homepage">
         <div class="row home-main-categories no-gutters">
             <isslot id="home-categories-m" description="Categories slots on the home page." context="global" />
